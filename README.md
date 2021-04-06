@@ -1,6 +1,6 @@
 # auth-api
 
-[Dev]()
+[Dev](https://github.com/RubaBanat/auth-api/tree/dev)
 
 ## .env 
 
@@ -43,8 +43,8 @@
 ---
 
 
-- [Pull-Request]()
-- [Heroku-deployment]()
+- [Pull-Request](https://github.com/RubaBanat/auth-api/pull/1)
+- [Heroku-deployment](https://auth-api-ruba.herokuapp.com/)
 
 
 ---
